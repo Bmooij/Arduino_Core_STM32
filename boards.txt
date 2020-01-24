@@ -1025,6 +1025,14 @@ GenF4.menu.pnum.FEATHER_F405.build.board=FEATHER_F405
 GenF4.menu.pnum.FEATHER_F405.build.product_line=STM32F405xx
 GenF4.menu.pnum.FEATHER_F405.build.variant=FEATHER_F405
 
+# Seeedstudio Wio LTE Cat M1/NB-IoT Tracker STM32F405 board
+GenF4.menu.pnum.SEEED_WIO_LTE=SeeedStudio Wio LTE
+GenF4.menu.pnum.SEEED_WIO_LTE.upload.maximum_size=1048576
+GenF4.menu.pnum.SEEED_WIO_LTE.upload.maximum_data_size=131072
+GenF4.menu.pnum.SEEED_WIO_LTE.build.board=SEEED_WIO_LTE
+GenF4.menu.pnum.SEEED_WIO_LTE.build.product_line=STM32F405xx
+GenF4.menu.pnum.SEEED_WIO_LTE.build.variant=SEEED_WIO_LTE
+
 # Generic F411RE
 GenF4.menu.pnum.Generic_F411RE=Generic F411RE
 GenF4.menu.pnum.Generic_F411RE.upload.maximum_size=524288

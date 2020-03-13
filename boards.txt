@@ -1033,6 +1033,14 @@ GenF4.menu.pnum.SEEED_WIO_LTE.build.board=SEEED_WIO_LTE
 GenF4.menu.pnum.SEEED_WIO_LTE.build.product_line=STM32F405xx
 GenF4.menu.pnum.SEEED_WIO_LTE.build.variant=SEEED_WIO_LTE
 
+# Main Board rev2 STM32F405 board
+GenF4.menu.pnum.MAIN_BOARD_REV2=Main Board rev2
+GenF4.menu.pnum.MAIN_BOARD_REV2.upload.maximum_size=1048576
+GenF4.menu.pnum.MAIN_BOARD_REV2.upload.maximum_data_size=131072
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.board=MAIN_BOARD_REV2
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.product_line=STM32F405xx
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.variant=MAIN_BOARD_REV2
+
 # Generic F411RE
 GenF4.menu.pnum.Generic_F411RE=Generic F411RE
 GenF4.menu.pnum.Generic_F411RE.upload.maximum_size=524288

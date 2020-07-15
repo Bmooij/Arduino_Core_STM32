@@ -1,0 +1,4 @@
+commit 16f3644e7b9f8225dcb01f48bd857bdc3a978580
+Author: Frederic Pillon <frederic.pillon@st.com>
+
+    Update to release 1.8.0 version

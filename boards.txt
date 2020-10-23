@@ -1328,6 +1328,22 @@ GenF4.menu.pnum.FEATHER_F405.build.board=FEATHER_F405
 GenF4.menu.pnum.FEATHER_F405.build.product_line=STM32F405xx
 GenF4.menu.pnum.FEATHER_F405.build.variant=FEATHER_F405
 
+# Seeedstudio Wio LTE Cat M1/NB-IoT Tracker STM32F405 board
+GenF4.menu.pnum.SEEED_WIO_LTE=SeeedStudio Wio LTE
+GenF4.menu.pnum.SEEED_WIO_LTE.upload.maximum_size=1048576
+GenF4.menu.pnum.SEEED_WIO_LTE.upload.maximum_data_size=131072
+GenF4.menu.pnum.SEEED_WIO_LTE.build.board=SEEED_WIO_LTE
+GenF4.menu.pnum.SEEED_WIO_LTE.build.product_line=STM32F405xx
+GenF4.menu.pnum.SEEED_WIO_LTE.build.variant=SEEED_WIO_LTE
+
+# Main Board rev2 STM32F405 board
+GenF4.menu.pnum.MAIN_BOARD_REV2=Main Board rev2
+GenF4.menu.pnum.MAIN_BOARD_REV2.upload.maximum_size=1048576
+GenF4.menu.pnum.MAIN_BOARD_REV2.upload.maximum_data_size=131072
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.board=MAIN_BOARD_REV2
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.product_line=STM32F405xx
+GenF4.menu.pnum.MAIN_BOARD_REV2.build.variant=MAIN_BOARD_REV2
+
 # ThunderPack F411xxE
 # https://github.com/jgillick/ThunderPack/tree/STM32F4
 GenF4.menu.pnum.THUNDERPACK_F411=ThunderPack v1.1+

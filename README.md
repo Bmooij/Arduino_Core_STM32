@@ -34,7 +34,7 @@ This repo is available as a package usable with [Arduino Boards Manager](https:/
 
 Use this link in the "*Additional Boards Managers URLs*" field:
 
-https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+https://github.com/Bmooij/BoardManagerFiles/raw/master/STM32/package_stm_index.json
 
 
 For full instructions on using the "**Boards Manager**", see the [Getting Started](https://github.com/stm32duino/wiki/wiki/Getting-Started) page.
